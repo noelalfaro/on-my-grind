@@ -1,0 +1,76 @@
+{
+  "drinks": [
+    {
+      "name": "Brown Sugar Oat Milk Shaken Espresso",
+      "ingredients": {
+        "temp": "Cold",
+        "syrup": "Brown Sugar",
+        "milk": "Oat",
+        "blended": "No"
+      }
+    },
+    {
+      "name": "Vanilla Sweet Cream Cold Brew",
+      "ingredients": {
+        "temp": "Cold",
+        "syrup": "Vanilla",
+        "milk": "Cow",
+        "blended": "No"
+      }
+    },
+    {
+      "name": "Chai Latte",
+      "ingredients": {
+        "temp": "Hot",
+        "syrup": "Chai",
+        "milk": "Cow",
+        "blended": "no"
+      }
+    },
+    {
+      "name": "Mocha Frapuccino",
+      "ingredients": {
+        "temp": "Cold",
+        "syrup": "Mocha",
+        "milk": "Cow",
+        "blended": "Yes"
+      }
+    },
+    {
+      "name": "Strawberry Acai Refresher",
+      "ingredients": {
+        "temp": "Cold",
+        "syrup": "None",
+        "milk": "None",
+        "blended": "No"
+      }
+    },
+    {
+      "name": "Iced Matcha Green Tea Latte",
+      "ingredients": {
+        "temp": "Cold",
+        "syrup": "Matcha",
+        "milk": "Cow",
+        "blended": "No"
+      }
+    },
+    {
+      "name": "French Vanilla Latte",
+      "ingredients": {
+        "temp": "Hot",
+        "syrup": "Hazelnut",
+        "milk": "Cow",
+        "blended": "No"
+      }
+    },
+    {
+      "name": "Sugar Cookie Almondmilk Latte",
+      "ingredients": {
+        "temp": "Hot",
+        "syrup": "Sugar Cookie",
+        "milk": "Almond",
+        "blended": "No"
+      }
+    }
+  ]
+}
